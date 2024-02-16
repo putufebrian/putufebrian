@@ -4,7 +4,7 @@ Perkenalkan nama saya **I Putu Flandy Febrian**.<br>
 
 Saya seorang **Mobile Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya bertanggung jawab pada Lembaga Pengembangan Universitas Gumadarma.<br>
+Saya bertanggung jawab pada Lembaga Pengembangan Universitas Gunadarma.<br>
 
 Saya juga memiliki gelar Sarjana Komputer.<br>
 
