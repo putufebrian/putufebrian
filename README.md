@@ -2,7 +2,7 @@
 
 ### About Me!  
 🎓 **Undergraduate at Gunadarma University**  
-💻 Interested in **Mobile Development**, **Animation** & **Game Development (Unity)**  
+💻 Interested in **Mobile Development**, **Animation** & **Game Development**  
 
 ---
 
